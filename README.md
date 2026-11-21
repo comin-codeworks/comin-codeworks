@@ -5,11 +5,6 @@ I'm Comin, a Computer Science student from Germany, studying at FH Südwestfalen
 
 ---
 
-### What I'm building
-I like turning what I learn into real, working projects instead of just theory. Right now that means building an [Android habit tracker](https://github.com/comin-codeworks/HabitTracker) from scratch, mostly to sharpen my Java skills and grow an active portfolio along the way.
-
----
-
 ### Tools
 Java is my main language, but I also have experience with Python and C. IntelliJ is my go-to IDE, and Git is basically where I live while building.
 
